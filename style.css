@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: url(https://play-lh.googleusercontent.com/G0ZlrB9Lq4tIwsjosZEy33dJft95Glkjedgf1beUb11y3--xWCgXy2qxD8pRLoFW-A=h500);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    width: 500px;
+    height: 200px;
+    justify-content: center;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 7px;
+    margin: 13% auto auto 30%;
+    padding: 1.5%;
+    background-color: rgb(216, 238, 91);
+}
+
+h1{
+    font-size: 3.5em;
+    margin-bottom: 5%;
+}
+
+span{
+margin: 0 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+input{
+    font-size: 23px;
+    width: 159px;
+    color: black;
+    
+}
+
+select{
+    width: 159px;
+    justify-content: space-between;
+    margin: 0 29px;
+}
